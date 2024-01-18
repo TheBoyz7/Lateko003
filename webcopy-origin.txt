@@ -1,0 +1,876 @@
+Uri: https://dkkit.rometheme.pro/dshirt/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\xfn\11.html
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/feed/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/comments/feed/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/themes/hello-elementor/style.min.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-3.css?ver=1686572128
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-3.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/global.css?ver=1686572129
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-92.css?ver=1686572129
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-92.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-113.css?ver=1686572129
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-113.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-153.css?ver=1686572129
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-153.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\css.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/92
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\92.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Favicon-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Favicon-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Favicon-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Favicon-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/about-us/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\about-us\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/our-team/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\our-team\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/services/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\services\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/service-detail/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\service-detail\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/project-1/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-1\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/project-2/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-2\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/pricing/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\pricing\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/faqs/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\faqs\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/archives/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\archives\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/d-shirt-we-create-your-dream/?preview=1&preview_nonce=60132de5f6&theme_template_id=314
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/contact/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\contact\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/t-shirt-cap-mockup-5TCKVF4h.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\t-shirt-cap-mockup-5TCKVF4h.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/mock1.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\mock1.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/batch2-s84-01-jacketd.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\batch2-s84-01-jacketd.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Totebag.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Totebag.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\css\widget-posts.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/d-shirt-we-create-your-dream/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\index-1.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-sell-your-custom-apparel-on-facebook/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-design-a-t-shirt-tips-tricks-d-shirt-post/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Logo-D-Shirt-1.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Logo-D-Shirt-1.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Foto1.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Foto1.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon2.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon2.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon3.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon3.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon4.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon4.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Foto3.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Foto3.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon5.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon5.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon6.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon6.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon7.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon7.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon8.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon8.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-DUrban.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-DUrban.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-Thumbnail.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-Thumbnail.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Darkle.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Darkle.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Digit.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Digit.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Site-Logo.gif
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Site-Logo.gif
+Content Type: image/gif
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Dezuvo-2.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Dezuvo-2.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/7.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\7.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Totebaga.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Totebaga.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEXa.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEXa.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-D-Shirt-2.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-D-Shirt-2.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Logo-D-Shirt-1-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Logo-D-Shirt-1-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Foto1-225x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Foto1-225x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon2-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon2-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon2-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon2-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon3-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon3-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon3-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon3-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon4-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon4-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon4-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon4-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Foto3-225x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Foto3-225x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon5-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon5-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon5-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon5-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon6-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon6-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon6-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon6-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon7-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon7-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon7-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon7-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon8-300x300.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon8-300x300.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/Icon8-150x150.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\Icon8-150x150.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-DUrban-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-DUrban-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-Thumbnail-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-Thumbnail-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Darkle-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Darkle-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Digit-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Digit-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Dezuvo-2-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Dezuvo-2-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/7-300x200.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\7-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/7-1024x683.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\7-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/7-768x512.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\7-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/7-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\7-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Totebaga-300x200.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Totebaga-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Totebaga-1024x683.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Totebaga-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Totebaga-768x512.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Totebaga-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Totebaga-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Totebaga-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-300x200.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-1024x683.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-768x512.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEXa-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/Logo-D-Shirt-2-300x86.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\Logo-D-Shirt-2-300x86.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.25.0
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/overlay1.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\overlay1.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/overlay2.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\overlay2.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-363.css?ver=1686599401
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-363.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/363
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\363.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-371.css?ver=1686600174
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-371.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/371
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\371.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Four-team%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Four-team%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/attractive-young-sportsman-with-beautiful-eyes-con-46NYEVT.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\attractive-young-sportsman-with-beautiful-eyes-con-46NYEVT.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/portrait-of-doubtful-attractive-blond-bearded-man-DHZD3ZG.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\portrait-of-doubtful-attractive-blond-bearded-man-DHZD3ZG.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/pretty-young-female-looks-with-appeal-at-camera-ha-E7LWMZAa.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\pretty-young-female-looks-with-appeal-at-camera-ha-E7LWMZAa.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/attractive-young-sportsman-with-beautiful-eyes-con-46NYEVT-257x300.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\attractive-young-sportsman-with-beautiful-eyes-con-46NYEVT-257x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/portrait-of-doubtful-attractive-blond-bearded-man-DHZD3ZG-257x300.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\portrait-of-doubtful-attractive-blond-bearded-man-DHZD3ZG-257x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/pretty-young-female-looks-with-appeal-at-camera-ha-E7LWMZAa-257x300.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\pretty-young-female-looks-with-appeal-at-camera-ha-E7LWMZAa-257x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-377.css?ver=1686589810
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-377.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/377
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\377.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fservices%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-383.css?ver=1686577393
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-383.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/383
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\383.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fservice-detail%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fservice-detail%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEX.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEX.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-work-QWCPTEX-225x300.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-work-QWCPTEX-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-389.css?ver=1686574861
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-389.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/389
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\389.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fproject-1%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fproject-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-395.css?ver=1686589831
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-395.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/395
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\395.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fproject-2%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fproject-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/t-shirt-cap-mockup-5TCKVF4d.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\06\t-shirt-cap-mockup-5TCKVF4d.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-401.css?ver=1686599778
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-401.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/401
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\401.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fpricing%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fpricing%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-407.css?ver=1686600144
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-407.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/407
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\407.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-427.css?ver=1686610420
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-427.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/427
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\427.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Farchives%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Farchives%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/d-shirt-we-create-your-dream/feed/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-314.css?ver=1686574856
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-314.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/posts/322
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\posts\322.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fd-shirt-we-create-your-dream%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fd-shirt-we-create-your-dream%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor-pro\assets\css\widget-theme-elements.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\index.htm
+Content Type: text/html
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/js/comment-reply.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-413.css?ver=1686577377
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-413.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/413
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\pages\413.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-sell-your-custom-apparel-on-facebook/feed/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/posts/320
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\posts\320.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fhow-to-sell-your-custom-apparel-on-facebook%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fhow-to-sell-your-custom-apparel-on-facebook%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-design-a-t-shirt-tips-tricks-d-shirt-post/feed/
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/posts/312
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\wp\v2\posts\312.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fhow-to-design-a-t-shirt-tips-tricks-d-shirt-post%2F
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-json/oembed/1.0/embed?url=https:%2F%2Fdkkit.rometheme.pro%2Fdshirt%2F2022%2F07%2F04%2Fhow-to-design-a-t-shirt-tips-tricks-d-shirt-post%2F&format=xml
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-a-wo-AN8F39Z.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-a-wo-AN8F39Z.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/overlay3.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\overlay3.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-a-wo-YYM42YG.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-a-wo-YYM42YG.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/overlay6.png
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\overlay6.png
+Content Type: image/png
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/07/male-worker-preparing-screen-printing-film-in-a-wo-RH57PWY.jpg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\2022\07\male-worker-preparing-screen-printing-film-in-a-wo-RH57PWY.jpg
+Content Type: image/jpeg
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/elementor/css/post-334.css?ver=1687091231
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\uploads\sites\52\elementor\css\post-334.css
+Content Type: text/css
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+

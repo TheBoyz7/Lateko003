@@ -1,0 +1,46 @@
+.logotop:hover{
+    width: 500px;
+    height: 150px
+}
+.logotop{
+    width: 350px; 
+    height: 100px;
+}
+#blendh:hover{
+    font-size: 105px;
+    color: #00D936;
+    transition: 0.8s;
+}
+#betwh:hover{
+    font-size: 105px;
+    color: red;
+    transition: 0.8s;
+}
+#swagh:hover{
+    font-size: 105px;
+    color: blue;
+    transition: 0.8s;
+}
+#andh:hover{
+    font-size: 105px;
+    color: #00D936;
+    transition: 0.8s;
+}
+#slangh:hover{
+    font-size: 105px;
+    color: red;
+    transition: 0.8s;
+}
+#topimg:hover{
+    margin-left: 100px;
+    transition: 0.8s;
+}
+#midimg:hover{
+    margin-left: 100px;
+    transition: 0.8s;
+}
+#story:hover{
+    font-size: 100px;
+    color: #00D936;
+    transition: 2s;
+}
