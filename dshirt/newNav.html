@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="style.css"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="/css/webfonts/uicons-regular-rounded.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="/css/webfonts/uicons-regular-rounded.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <nav>
+      <a href="index.html"
+        ><img
+          src="wp-content/uploads/sites/52/2022/06/Logo-D-shirt-1.png"
+          alt="Logo"
+      /></a>
+      <div
+        class="nav-links"
+        id="navLinks"
+      >
+        <i
+          class="fa fa-times"
+          onclick="hideMenu()"
+        ></i>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li class="dropdown">
+            <span
+              href="about.html"
+              class="dropbtn"
+              ><span>ABOUT</span>
+              <span style="font-size: 12px; padding: 5px">&#x25BC;</span>
+            </span>
+
+            <ul class="dropdown-content">
+              <li><a href="#">ABOUT US</a></li>
+              <li><a href="@#">OUR TEAM</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a
+              class="dropbtn"
+              href="course.html"
+            >
+              <span>SERVICES</span>
+              <span style="font-size: 12px; padding: 5px">&#x25BC;</span>
+            </a>
+            <ul class="dropdown-content">
+              <li><a href="#">ALL SERVICES</a></li>
+              <li><a href="@#">SERVICE DETAILS</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a
+              href="#djd"
+              class="dropbtn"
+            >
+              <span>STORE</span>
+              <span style="font-size: 12px; padding: 5px">&#x25BC;</span>
+            </a>
+            <ul class="dropdown-content">
+              <li><a href="#">PROJEDCT 1</a></li>
+              <li><a href="@#">PROJECT 2</a></li>
+              <li><a href="@#$">PRICING</a></li>
+              <li><a href="#">FAQS</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a
+              class="dropbtn"
+              href="blog.html"
+            >
+              <span>BLOG</span>
+              <span style="font-size: 12px; padding: 5px">&#x25BC;</span>
+            </a>
+            <ul class="dropdown-content">
+              <li><a href="#">ARCHIVE</a></li>
+              <li><a href="@#">SINGLE POST</a></li>
+            </ul>
+          </li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+        <div><button>PURCHASE NOW</button></div>
+      </div>
+
+      <i
+        class="fa fa-bars"
+        onclick="showMenu()"
+      ></i>
+    </nav>
+    <hr />
+
+    <script>
+      var navLinks = document.getElementById("navLinks");
+
+      function showMenu() {
+        navLinks.style.right = "0";
+      }
+
+      function hideMenu() {
+        navLinks.style.right = "-200px";
+      }
+    </script>
+  </body>
+</html>
