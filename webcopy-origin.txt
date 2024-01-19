@@ -1,5 +1,5 @@
 Uri: https://dkkit.rometheme.pro/dshirt/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\index.html
 Content Type: text/html
 
 Uri: https://gmpg.org/xfn/11
@@ -7,11 +7,11 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\xfn\11.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/feed/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\feed\index.htm.rss
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/comments/feed/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\comments\feed\index.htm.rss
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\comments\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-content/themes/hello-elementor/style.min.css?ver=2.9.0
@@ -71,7 +71,7 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins
 Content Type: text/css
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-json/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\index.htm.json
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\index.html.json
 Content Type: application/json
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/pages/92
@@ -103,47 +103,47 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins
 Content Type: text/css
 
 Uri: https://dkkit.rometheme.pro/dshirt/about-us/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\about-us\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\about-us\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/our-team/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\our-team\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\our-team\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/services/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\services\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\services\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/service-detail/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\service-detail\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\service-detail\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/project-1/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-1\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-1\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/project-2/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-2\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\project-2\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/pricing/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\pricing\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\pricing\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/faqs/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\faqs\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\faqs\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/archives/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\archives\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\archives\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/d-shirt-we-create-your-dream/?preview=1&preview_nonce=60132de5f6&theme_template_id=314
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/contact/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\contact\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\contact\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-content/uploads/sites/52/2022/06/t-shirt-cap-mockup-5TCKVF4h.jpg
@@ -175,11 +175,11 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-sell-your-custom-apparel-on-facebook/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-design-a-t-shirt-tips-tricks-d-shirt-post/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
@@ -715,7 +715,7 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0
 Content Type: text/xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/d-shirt-we-create-your-dream/feed/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\feed\index.htm.rss
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\d-shirt-we-create-your-dream\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
@@ -743,7 +743,7 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-content\plugins
 Content Type: text/css
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\index.htm
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\index.html
 Content Type: text/html
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
@@ -771,7 +771,7 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0
 Content Type: text/xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-sell-your-custom-apparel-on-facebook/feed/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\feed\index.htm.rss
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-sell-your-custom-apparel-on-facebook\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/posts/320
@@ -787,7 +787,7 @@ File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\wp-json\oembed\1.0
 Content Type: text/xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/2022/07/04/how-to-design-a-t-shirt-tips-tricks-d-shirt-post/feed/
-File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\feed\index.htm.rss
+File Name: C:\Downloaded Web Sites\dkkit.rometheme.pro\dshirt\2022\07\04\how-to-design-a-t-shirt-tips-tricks-d-shirt-post\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://dkkit.rometheme.pro/dshirt/wp-json/wp/v2/posts/312
