@@ -186,91 +186,143 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</section>
 
 		<section>
-			<main>
-				<h1>Unleash your inner speaker. Find your slang.</h1>
-				<p>Dive into the hottest lingo and express yourself like a boss. Search, learn, and rock the Lateko swag.</p>
-		
-				<form id="search-form">
-					<input type="text" id="search-input" placeholder="Enter slang to find">
-					<button type="submit"><i class="fa fa-search"></i> Find It</button>
-				</form>
-		
-				<ul id="slang-list"></ul>
-		
-				<div class="t-shirt-popup">
-					<img src="" alt="T-shirt image">
-					<button class="close-popup">Close</button>
-				</div>
-			</main>
-		
-		
-			<script>
-				        const searchForm = document.getElementById('search-form');
-const searchInput = document.getElementById('search-input');
-const slangList = document.getElementById('slang-list');
-const tShirtPopup = document.querySelector('.t-shirt-popup');
-const closePopupButton = document.querySelector('.close-popup');
+    <main>
+        <h1>Unleash your inner speaker. Find your slang.</h1>
+        <p>Dive into the hottest lingo and express yourself like a boss. Search, learn, and rock the Lateko swag.</p>
 
-// Simulate search (replace with your database calls)
-const slangData = {
-    "Naija": "Nigerian slang for 'Nigeria'",
-    "Chop Life": "To enjoy life to the fullest",
-    "Jand": "Abroad, specifically referring to Western countries",
-    // Add more slang terms and definitions here
-};
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Enter slang to find">
+            <button type="submit"><i class="fa fa-search"></i> Find It</button>
+        </form>
 
-searchForm.addEventListener('submit', (event) => {
-    event.preventDefault();
+        <div id="slang-details" style="display: none;">
+            <p id="selected-slang"></p>
+            <p id="slang-definition"></p>
+            <p id="slang-credit"></p>
+            <button id="view-tshirts-btn" onclick="viewTShirts()">View T-Shirts</button>
+        </div>
 
-    const searchTerm = searchInput.value.toLowerCase();
-    const matchingSlang = Object.entries(slangData)
-        .filter(([slangTerm]) => slangTerm.toLowerCase().includes(searchTerm))
-        .map(([slangTerm, definition]) => ({ slangTerm, definition }));
+        <div id="add-slang-message" style="display: none;">
+            <p>Slang doesn't exist. Add it now?</p>
+            <button id="add-slang-btn" onclick="addSlang()">Add Slang</button>
+        </div>
 
-    slangList.innerHTML = ''; // Clear previous results
+        <ul id="slang-list"></ul>
 
-    matchingSlang.forEach(({ slangTerm, definition }) => {
-        const slangItem = document.createElement('li');
-        slangItem.classList.add('slang-item');
-        slangItem.textContent = slangTerm;
+        <div class="t-shirt-popup">
+            <img src="" alt="T-shirt image">
+            <button class="close-popup">Close</button>
+        </div>
+    </main>
 
-        const definitionElement = document.createElement('div');
-        definitionElement.classList.add('definition');
-        definitionElement.textContent = definition;
+    <script>
+        // Select necessary elements
+        const searchForm = document.getElementById('search-form');
+        const searchInput = document.getElementById('search-input');
+        const slangList = document.getElementById('slang-list');
+        const slangDetails = document.getElementById('slang-details');
+        const selectedSlang = document.getElementById('selected-slang');
+        const slangDefinition = document.getElementById('slang-definition');
+        const slangCredit = document.getElementById('slang-credit');
+        const viewTShirtsBtn = document.getElementById('view-tshirts-btn');
+        const addSlangMessage = document.getElementById('add-slang-message');
+        const addSlangBtn = document.getElementById('add-slang-btn');
+        const tShirtPopup = document.querySelector('.t-shirt-popup');
+        const closePopupButton = document.querySelector('.close-popup');
+        let results; // Declare results globally
 
-        slangItem.appendChild(definitionElement);
-        slangList.appendChild(slangItem);
+        // Simulate search data (replace with database calls)
+        const slangData = {
+            "Naija": { definition: "Nigerian slang for 'Nigeria'", credit: "Contributor A" },
+            "Chop Life": { definition: "To enjoy life to the fullest", credit: "Contributor B" },
+            "Jand": { definition: "Abroad, specifically referring to Western countries", credit: "Contributor C" },
+            // Add more slang terms and definitions here
+        };
 
-        slangItem.addEventListener('click', () => {
-            openTShirtPopup(slangTerm);
+        // Handle form submission
+        searchForm.addEventListener('submit', (event) => {
+            event.preventDefault(); // Prevent default form submission
+
+            const searchTerm = searchInput.value.toLowerCase();
+            results = Object.entries(slangData)
+                .filter(([slangTerm]) => slangTerm.toLowerCase().includes(searchTerm))
+                .map(([slangTerm, { definition, credit }]) => ({ slangTerm, definition, credit }));
+
+            displaySearchResults(results);
         });
-    });
-});
 
-// Open the T-shirt popup
-function openTShirtPopup(slangTerm) {
-    // Replace with your logic to fetch T-shirt image based on slangTerm
-    const tShirtImage = 'https://example.com/tshirts/' + slangTerm + '.jpg'; // Example placeholder
+        // Display search results
+        function displaySearchResults(results) {
+            slangList.innerHTML = ''; // Clear previous results
 
-    tShirtPopup.style.display = 'flex';
-    tShirtPopup.querySelector('img').src = tShirtImage;
-}
+            if (results.length === 0) {
+                slangDetails.style.display = 'none'; // Hide the details block
+                addSlangMessage.style.display = 'block'; // Show the "Add Slang" message
+                return;
+            }
 
-// Close the T-shirt popup
-function closeTShirtPopup() {
-    tShirtPopup.style.display = 'none';
-}
+            slangDetails.style.display = 'block'; // Show the details block
+            addSlangMessage.style.display = 'none'; // Hide the "Add Slang" message
 
-// Add event listeners for closing the popup
-closePopupButton.addEventListener('click', closeTShirtPopup);
-tShirtPopup.addEventListener('click', (event) => {
-    if (event.target === tShirtPopup) {
-        closeTShirtPopup();
-    }
+            results.forEach(({ slangTerm, definition, credit }) => {
+                const slangItem = document.createElement('li');
+                slangItem.classList.add('slang-item');
+                slangItem.textContent = slangTerm;
 
-			</script>
+                slangItem.addEventListener('click', () => {
+                    showSlangDetails({ slangTerm, definition, credit });
+                });
+
+                slangList.appendChild(slangItem);
+            });
+        }
+
+        // Function to show slang details when selected
+        function showSlangDetails({ slangTerm, definition, credit }) {
+            selectedSlang.textContent = `Slang Term: ${slangTerm}`;
+            slangDefinition.textContent = `Definition: ${definition}`;
+            slangCredit.textContent = `Credit: ${credit}`;
+            viewTShirtsBtn.style.display = 'block'; // Show the "View T-Shirts" button
+            closeTShirtPopup();
+        }
+
+        // Function to handle "View T-Shirts" button click
+        function viewTShirts() {
+            const selectedSlangTerm = selectedSlang.textContent.replace('Slang Term: ', '');
+            openTShirtPopup(selectedSlangTerm);
+        }
+
+        // Function to handle "Add Slang" button click
+        function addSlang() {
+            // Implement the logic to add slang (e.g., open a form)
+            alert("Implement the logic to add slang here.");
+        }
+
+        // Open T-shirt popup
+        function openTShirtPopup(slangTerm) {
+            // Replace with logic to fetch T-shirt image
+            const tShirtImage = '..shirts/' + slangTerm + '.jpg'; // Example placeholder
+
+            tShirtPopup.style.display = 'flex';
+            tShirtPopup.querySelector('img').src = tShirtImage;
+        }
+
+        // Close T-shirt popup
+        function closeTShirtPopup() {
+            tShirtPopup.style.display = 'none';
+        }
+
+        // Add an event listener for closing the popup
+        closePopupButton.addEventListener('click', closeTShirtPopup);
+        tShirtPopup.addEventListener('click', (event) => {
+            if (event.target === tShirtPopup) {
+                closeTShirtPopup();
+            }
+        });
+    </script>
+</section>
+
 		
-		</section>
 
 
 
@@ -283,7 +335,6 @@ tShirtPopup.addEventListener('click', (event) => {
 
 
 
-    </section>
 </div>
 <div data-elementor-type="footer" data-elementor-id="153" class="elementor elementor-153 elementor-location-footer" data-elementor-post-type="elementor_library">
     <section class="elementor-section elementor-top-section elementor-element elementor-element-b208e54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b208e54" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
