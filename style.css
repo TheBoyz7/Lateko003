@@ -6,7 +6,7 @@
     width: 350px; 
     height: 100px;
 }
-#blendh:hover{
+/* #blendh:hover{
     font-size: 105px;
     color: #00D936;
     transition: 0.8s;
@@ -30,7 +30,17 @@
     font-size: 105px;
     color: red;
     transition: 0.8s;
+} */
+#blendh.active,
+#betwh.active,
+#swagh.active,
+#andh.active,
+#slangh.active {
+    /* Your desired styles for the active state */
+    color: #00c22f; /* Change color on scroll, for example */
+    /* Add other styles as needed */
 }
+
 #topimg:hover{
     margin-left: 100px;
     transition: 0.8s;

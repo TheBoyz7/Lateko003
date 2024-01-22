@@ -200,6 +200,46 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<h1 id="swagh" >Swag</h1>	
 						<h1 id="andh" >and</h1>
 						<h1 id="slangh" >Slang</h1>		
+
+						<script>
+							// Function to change color after a delay
+function changeColorWithDelay(elementId, color, delay) {
+    setTimeout(() => {
+        const element = document.getElementById(elementId);
+        if (element) {
+            element.style.color = color;
+        }
+    }, delay);
+}
+
+// Set different delays for each heading
+changeColorWithDelay('blendh', '#ff6347', 1000); // Change to red after 1 second
+changeColorWithDelay('betwh', '#00bfff', 2000); // Change to deep sky blue after 2 seconds
+changeColorWithDelay('swagh', '#ff69b4', 3000); // Change to hot pink after 3 seconds
+changeColorWithDelay('andh', '#32cd32', 4000); // Change to lime green after 4 seconds
+changeColorWithDelay('slangh', '#9400d3', 5000); // Change to dark violet after 5 seconds
+
+// Function to handle scroll and trigger color changes
+function handleScroll() {
+    const scrollPosition = window.scrollY;
+
+    // You can adjust these values based on your layout
+    if (scrollPosition < 500) {
+        // Change to initial color
+        document.body.style.backgroundColor = '#f5f5f5';
+    } else if (scrollPosition < 1000) {
+        // Change to another color
+        document.body.style.backgroundColor = '#e0e0e0';
+    } else {
+        // Change to another color
+        document.body.style.backgroundColor = '#d3d3d3';
+    }
+}
+
+// Add event listener for scroll
+window.addEventListener('scroll', handleScroll);
+
+						</script>
 					</div>
 				</div>
 		
