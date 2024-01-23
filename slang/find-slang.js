@@ -1,64 +1,57 @@
-const searchForm = document.getElementById('search-form');
-const searchInput = document.getElementById('search-input');
-const slangList = document.getElementById('slang-list');
-const tShirtPopup = document.querySelector('.t-shirt-popup');
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("searchInput");
+    const searchButton = document.getElementById("searchButton");
+    const searchResults = document.getElementById("searchResults");
 
-// Simulate search (replace with your actual search logic)
-const slangData = {
-    "Naija": "Nigerian slang for 'Nigeria'",
-    "Chop Life": "To enjoy life to the fullest",
-    "Jand": "Abroad, specifically referring to Western countries",
-    // Add more slang terms and definitions
-};
+    // Simulated data for demonstration purposes
+    const slangData = [
+        { slang: "Lit", meaning: "Awesome", link: "learn-more.html", image: "tshirt-image-1.jpg" },
+        { slang: "Fam", meaning: "Family", link: "learn-more.html", image: "tshirt-image-2.jpg" },
+        // Add more data as needed
+    ];
 
-searchForm.addEventListener('submit', (event) => {
-    event.preventDefault();
+    // Event listener for input changes
+    searchInput.addEventListener("input", function () {
+        const searchTerm = searchInput.value.toLowerCase();
+        const filteredResults = slangData.filter(item => item.slang.toLowerCase().includes(searchTerm));
 
-    const searchTerm = searchInput.value.toLowerCase();
-    const matchingSlang = Object.entries(slangData)
-        .filter(([slangTerm]) => slangTerm.toLowerCase().includes(searchTerm))
-        .map(([slangTerm, definition]) => ({ slangTerm, definition }));
-
-    slangList.innerHTML = ''; // Clear previous results
-
-    matchingSlang.forEach(({ slangTerm, definition }) => {
-        const slangItem = document.createElement('li');
-        slangItem.classList.add('slang-item');
-        slangItem.textContent = slangTerm;
-
-        const definitionElement = document.createElement('div');
-        definitionElement.classList.add('definition');
-        definitionElement.textContent = definition;
-
-        slangItem.appendChild(definitionElement);
-        slangList.appendChild(slangItem);
-
-        slangItem.addEventListener('click', () => {
-            openTShirtPopup(slangTerm);
-        });
+        displayResults(filteredResults);
     });
-});
 
-// Open the T-shirt popup
-function openTShirtPopup(slangTerm) {
-    // Replace with your logic to fetch T-shirt image based on slangTerm
-    const tShirtImage = 'https://example.com/tshirts/' + slangTerm + '.jpg'; // Example placeholder
+    // Event listener for search button click
+    searchButton.addEventListener("click", function () {
+        const searchTerm = searchInput.value.toLowerCase();
+        const filteredResults = slangData.filter(item => item.slang.toLowerCase().includes(searchTerm));
 
-    tShirtPopup.style.display = 'flex';
-    tShirtPopup.querySelector('img').src = tShirtImage;
-}
+        displayResults(filteredResults);
+    });
 
-// Close the T-shirt popup
-function closeTShirtPopup() {
-    tShirtPopup.style.display = 'none';
-}
+    // Function to display search results
+    function displayResults(results) {
+        // Clear previous results
+        searchResults.innerHTML = "";
 
-// Add event listener for closing the popup (e.g., clicking outside or on a close button)
-tShirtPopup.addEventListener('click', (event) => {
-    if (event.target === tShirtPopup) {
-        closeTShirtPopup();
+        // Display new results
+        results.forEach(result => {
+            const resultItem = document.createElement("div");
+            resultItem.classList.add("result-item");
+
+            resultItem.innerHTML = `
+                <div>${result.slang} - ${result.meaning}</div>
+                <a href="${result.link}" target="_blank">Learn More</a>
+                <a href="product-page.html"><img src="${result.image}" alt="T-shirt"></a>
+                <button onclick="addToCart('${result.slang}')">Add to Cart</button>
+            `;
+
+            searchResults.appendChild(resultItem);
+        });
+
+        // Show the results container
+        searchResults.style.display = results.length > 0 ? "block" : "none";
     }
 });
 
-
-
+// Function to simulate adding to cart
+function addToCart(slang) {
+    alert(`"${slang}" added to cart!`);
+}

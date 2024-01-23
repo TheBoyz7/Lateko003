@@ -196,9 +196,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				</form>
 		
 				<div id="slang-details" style="display: none;">
-					<label for="slang-dropdown">Select Meaning:</label>
-					<select id="slang-dropdown"></select>
+					<p id="selected-slang"></p>
+					<p id="slang-definition"></p>
 					<p id="slang-credit"></p>
+					<select id="slang-dropdown"></select>
 					<button id="view-tshirts-btn" onclick="viewTShirts()">View T-Shirts</button>
 				</div>
 		
@@ -214,7 +215,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<button class="close-popup">Close</button>
 				</div>
 			</main>
-		
 			<script>
 				// Select necessary elements
 				const searchForm = document.getElementById('search-form');
@@ -222,12 +222,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				const slangList = document.getElementById('slang-list');
 				const slangDropdown = document.getElementById('slang-dropdown');
 				const slangDetails = document.getElementById('slang-details');
-				const slangCredit = document.getElementById('slang-credit');
 				const viewTShirtsBtn = document.getElementById('view-tshirts-btn');
 				const addSlangMessage = document.getElementById('add-slang-message');
 				const addSlangBtn = document.getElementById('add-slang-btn');
 				const tShirtPopup = document.querySelector('.t-shirt-popup');
 				const closePopupButton = document.querySelector('.close-popup');
+				const selectedSlang = document.getElementById('selected-slang');
+				const slangDefinition = document.getElementById('slang-definition');
+				const slangCredit = document.getElementById('slang-credit');
+		
 				let results; // Declare results globally
 		
 				// Simulate search data (replace with database calls)
@@ -286,17 +289,20 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					});
 				}
 		
-				// Function to show slang details when selected from the dropdown
+				// Function to show slang details when selected
 				function showSlangDetails({ slangTerm, definition, credit }) {
-					slangDetails.innerHTML = `<p>${slangTerm}: ${definition}</p>`;
+					selectedSlang.textContent = `Slang Term: ${slangTerm}`;
+					slangDefinition.textContent = `Definition: ${definition}`;
 					slangCredit.textContent = `Credit: ${credit}`;
 					viewTShirtsBtn.style.display = 'block'; // Show the "View T-Shirts" button
 					closeTShirtPopup();
+					const slangDropdown = document.getElementById('slang-dropdown');
+					slangDropdown.value = slangTerm; // Set the selected value in the dropdown
 				}
 		
 				// Function to handle "View T-Shirts" button click
 				function viewTShirts() {
-					const selectedSlang = slangDropdown.value;
+					const selectedSlang = document.getElementById('slang-dropdown').value;
 					if (selectedSlang) {
 						// Link to the product page outside the current folder (assuming 'product' is a subdirectory)
 						const productPageURL = `../product/${selectedSlang}.html`;
@@ -333,7 +339,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				});
 			</script>
 		</section>
-		
 		
 
 
