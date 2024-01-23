@@ -186,28 +186,56 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</section>
 
 		<section>
-          
-                <div class="cart-container">
-                    <h1>Shopping Cart</h1>
-                    <div class="cart-items">
-                        <div class="cart-item">
-                            <img src="tshirt-image-1.jpg" alt="Lateko T-shirt">
-                            <div class="item-details">
-                                <h2>Lateko Awesome T-shirt</h2>
-                                <p class="price">$25.99</p>
-                                <p class="quantity">Quantity: 2</p>
-                            </div>
-                        </div>
+            <!DOCTYPE html>
+            <html lang="en">
+            
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link rel="stylesheet" href="checkout-page-styles.css">
+                <title>Checkout</title>
+            </head>
+            
+            <body>
+                <div class="checkout-container">
+                    <h1>Checkout</h1>
+                    <div class="billing-details">
+                        <h2>Billing Information</h2>
+                        <form id="billing-form">
+                            <label for="name">Name:</label>
+                            <input type="text" id="name" name="name" required>
+            
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" name="email" required>
+            
+                            <label for="address">Address:</label>
+                            <textarea id="address" name="address" required></textarea>
+            
+                            <label for="card-number">Credit Card Number:</label>
+                            <input type="text" id="card-number" name="card-number" required>
+            
+                            <button type="submit">Submit Order</button>
+                        </form>
                     </div>
-                    <div class="cart-total">
-                        <h2>Total: $51.98</h2>
-                        <button onclick="checkout()">Proceed to Checkout</button>
+            
+                    <div class="shipping-details">
+                        <h2>Shipping Information</h2>
+                        <form id="shipping-form">
+                            <label for="shipping-address">Shipping Address:</label>
+                            <textarea id="shipping-address" name="shipping-address" required></textarea>
+            
+                            <label for="delivery-method">Delivery Method:</label>
+                            <select id="delivery-method" name="delivery-method">
+                                <option value="standard">Standard Shipping</option>
+                                <option value="express">Express Shipping</option>
+                            </select>
+                        </form>
                     </div>
-
-                
-                    <script src="cart-page-script.js"></script>
-
                 </div>
+            </body>
+            
+            </html>
+            
          
         
             
