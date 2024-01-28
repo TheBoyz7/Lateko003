@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Simulated data for demonstration purposes
     const slangData = [
-        { slang: "Lit", meaning: "Awesome", link: "learn-more.html", image: "tshirt-image-1.jpg" },
-        { slang: "Fam", meaning: "Family", link: "learn-more.html", image: "tshirt-image-2.jpg" },
+        { slang: "Lit", meaning: "Awesome", link: "learn-more.html", image: "../images/shirt.jpg" },
+        { slang: "Fam", meaning: "Family", link: "learn-more.html", image: "../images/shirt.jpg" },
         // Add more data as needed
     ];
 
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
             resultItem.innerHTML = `
                 <div>${result.slang} - ${result.meaning}</div>
                 <a href="${result.link}" target="_blank">Learn More</a>
-                <a href="product-page.html"><img src="${result.image}" alt="T-shirt"></a>
+                <a href="../tshirt/index.html"><img src="${result.image}" alt="T-shirt"></a>
                 <button onclick="addToCart('${result.slang}')">Add to Cart</button>
             `;
 
