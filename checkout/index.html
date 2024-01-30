@@ -191,7 +191,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                     <h1>Checkout</h1>
                     <div class="billing-details">
                         <h2>Billing Information</h2>
-                        <form id="billing-form">
+                        <form id="billing-form" action="order-confirmation-page.html">
                             <label for="name">Name:</label>
                             <input type="text" id="name" name="name" required>
             
@@ -204,18 +204,21 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                             <label for="card-number">Credit Card Number:</label>
                             <input type="text" id="card-number" name="card-number" required>
             
-                            <button type="submit">Submit Order</button>
+                           <a href="order-confirmation-page.html"> <button onclick="checkout()">Submit Order</button></a>
+
+						   <script src="script.js
+						   " ></script>
                         </form>
                     </div>
             
-                    <div class="shipping-details">
+                    <div class="shipping-details">	
                         <h2>Shipping Information</h2>
                         <form id="shipping-form">
                             <label for="shipping-address">Shipping Address:</label>
                             <textarea id="shipping-address" name="shipping-address" required></textarea>
             
                             <label for="delivery-method">Delivery Method:</label>
-                            <select id="delivery-method" name="delivery-method">
+                            <select id="delivery-method" name="delivery-method" required>
                                 <option value="standard">Standard Shipping</option>
                                 <option value="express">Express Shipping</option>
                             </select>
