@@ -36,6 +36,7 @@
 #swagh.active,
 #andh.active,
 #slangh.active {
+    
     /* Your desired styles for the active state */
     color: #00c22f; /* Change color on scroll, for example */
     /* Add other styles as needed */
@@ -65,7 +66,7 @@
     width: 350px; 
     height: 100px;
 }
-#blendh:hover{
+/* #blendh:hover{
     font-size: 105px;
     color: #00D936;
     transition: 0.8s;
@@ -88,8 +89,8 @@
 #slangh:hover{
     font-size: 105px;
     color: red;
-    transition: 0.8s;
-}
+    transition: 0.8s; */
+/* } */
 #topimg:hover{
     margin-left: 100px;
     transition: 0.8s;
@@ -245,19 +246,21 @@ nav .fa{
 
 
 @media(max-width: 700px){
-    nav{
+    nav {
         z-index: 5000000000000000000000000000000000;
     }
-    nav > a{
+
+    nav > a {
         flex-basis: 50%;
     }
-    .nav-links ul li{
+
+    .nav-links ul li {
         display: block;
         color: #ffff;
         cursor: pointer;
     }
     
-    .nav-links{
+    .nav-links {
         position: fixed;
         background: #00D936;
         height: 100vh;
@@ -270,22 +273,23 @@ nav .fa{
         transition: 1s;
     }
 
-    .nav-links ul li a:hover{
+    .nav-links ul li a:hover {
         color: #ffff;
-     }
+    }
 
-    .nav-links ul li a::after{
+    .nav-links ul li a::after {
         width: 0%;
     }
 
-    .nav-links ul li a:hover::after{
+    .nav-links ul li a:hover::after {
         width: 0%;
     }
 
-    .nav-links ul li a{
+    .nav-links ul li a {
         color: #ffff;
     }
-    nav .fa{
+
+    nav .fa {
         display: block;
         color: #00D936;
         margin: 5px;
@@ -293,27 +297,31 @@ nav .fa{
         cursor: pointer;
     }
 
-    nav .fa-times{
+    nav .fa-times {
         color: #ffff;
     }
 
-    .nav-links ul{
+    .nav-links ul {
         padding: 30px;
     }
 
-    button{
+    button {
         background-color: #ffff;
         color: #00D936;
         margin: 0 20px;
         transition: 0.5s ease;
+        font-size: 1px; /* Adjusted font size */
+        width: auto;
+        height: auto;
+        padding: 8px 15px; /* Adjusted padding */
     }
 
-    button:hover{
+    button:hover {
         background-color: green;
         color: #ffff;
     }
 
-    .dropdown-content{
+    .dropdown-content {
         margin-top: 0px;
         background-color: #00D936;
         position: absolute;
@@ -321,8 +329,6 @@ nav .fa{
         box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
         z-index: 1;
     }
-
-
 }
 
   

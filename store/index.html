@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store Page</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css" />
+    <link href="css/webfonts/uicons-regular-rounded.css" rel="stylesheet" />
+
+    
+        <link rel="stylesheet" href="../style.css" />
+        <link
+          rel="stylesheet"
+          href="../css/font-awesome-4.7.0/css/font-awesome.min.css"
+        />
+        <link href="../css/webfonts/uicons-regular-rounded.css" rel="stylesheet" />
+        <link
+          rel="stylesheet"
+          href="../css/font-awesome-4.7.0/css/font-awesome.min.css"
+        />
+        <link href="../css/webfonts/uicons-regular-rounded.css" rel="stylesheet" />
+      </head>
+      <body>
+        <nav>
+          <a href="../index.html"
+            ><img
+              src="wp-content/uploads/sites/52/2022/06/Logo-D-shirt-1.png"
+              alt="Logo"
+          /></a>
+          <div class="nav-links" id="navLinks">
+            <i class="fa fa-times" onclick="hideMenu()"></i>
+            <ul>
+              <li><a href="../index.html">HOME</a></li>
+              <li><a href="../about-us/index.html">ABOUT</a></li>
+              <li><a href="../coming soon/index.html">BLOG</a></li>
+              <li><a href="../store/index.html">STORE</a></li>
+              <li><a href="../contact/index.htm">CONTACT</a></li>
+            </ul>
+            <!-- <div><button>PURCHASE NOW</button></div> -->
+          </div>
+    
+          <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <hr />
+    
+        <script>
+          var navLinks = document.getElementById("navLinks");
+    
+          function showMenu() {
+            navLinks.style.right = "0";
+          }
+    
+          function hideMenu() {
+            navLinks.style.right = "-200px";
+          }
+        </script>
+    
+
+    <div class="store-container">
+        <h1>Welcome to Our Store</h1>
+        <!-- Your store content goes here -->
+        <div class="product">
+          <a href="../tshirt/index.html">  <img src="../images/shirt.jpg" alt="Product 1" /></a>
+            <h2>Product 1</h2>
+            <p>Description of Product 1.</p>
+            <button>Add to Cart</button>
+        </div>
+
+     
+
+        <!-- Add more product sections as needed -->
+
+    </div>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        .store-container {
+            padding: 20px;
+        }
+
+        .product {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .product img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .add-to-cart {
+            background-color: #00D936;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+            width: 100%; /* Ensure the button takes full width on smaller screens */
+        }
+
+        .add-to-cart:hover {
+            background-color: #008c24;
+        }
+    </style>
+</body>
+
+</html>
