@@ -276,6 +276,7 @@ nav .fa{
         text-align: left;
         z-index: 2000;
         transition: 0.3s;
+              
     }
 
     .nav-links ul li a:hover {
@@ -293,7 +294,7 @@ nav .fa{
     .nav-links ul li a {
         color: #00c22f;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        text-decoration: underline #000;
+      
     }
 
     nav .fa {
@@ -309,7 +310,11 @@ nav .fa{
     }
 
     .nav-links ul {
-        padding: 30px;
+        padding: 10px;
+    }
+    .nav-links ul li{
+        border-top: solid grey 0.5px;
+    
     }
 
     button {
