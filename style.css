@@ -261,13 +261,13 @@ nav .fa{
 
     .nav-links ul li {
         display: block;
-        color: #ffff;
+        color: #00c22f;
         cursor: pointer;
     }
     
     .nav-links {
         position: fixed;
-        background: #00D936;
+        background: #ffff;
         height: 100vh;
         width: 200px;
         display: block;
@@ -275,11 +275,11 @@ nav .fa{
         right: -200px;
         text-align: left;
         z-index: 2000;
-        transition: 1s;
+        transition: 0.3s;
     }
 
     .nav-links ul li a:hover {
-        color: #ffff;
+        color: #00c22f;
     }
 
     .nav-links ul li a::after {
@@ -291,7 +291,9 @@ nav .fa{
     }
 
     .nav-links ul li a {
-        color: #ffff;
+        color: #00c22f;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-decoration: underline #000;
     }
 
     nav .fa {
@@ -303,7 +305,7 @@ nav .fa{
     }
 
     nav .fa-times {
-        color: #ffff;
+        color: #00c22f;
     }
 
     .nav-links ul {
