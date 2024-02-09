@@ -117,17 +117,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	  navLinks.style.right = "-200px";
 	}
   </script>
-		<section>
-			<div class="search-container">
-				<h1>Find Slang</h1>
-				<input type="text" id="searchInput" placeholder="Search...">
-				<button id="searchButton">Search</button>
-				<div id="searchResults" class="search-results"></div>
+		<section class="slang-search">
+			<h1 class="header">Unlock Your Lingo Lexicon!</h1>
+			<div class="input-container">
+			  <input type="text" id="searchInput" placeholder="Search..." autocomplete="off">
+			  <button id="searchButton">Search</button>
 			</div>
-		
-			<script src="find-slang.js"></script>
-		</section>
-
+			<div id="slangList" class="slang-list"></div>
+			<div id="searchResults" class="search-results hidden"></div>
+		  </section>
+		  
+		  <script src="find-slang.js"></script>
+		  
 		
 
 

@@ -1,0 +1,59 @@
+const slangData = [	{ slang: "Lit", meaning: "Awesome", link: "learn-more.html", image: "../images/shirt.jpg" },]; // Replace with your actual slang data
+
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
+const slangList = document.getElementById("slangList");
+const searchResults = document.getElementById("searchResults");
+
+// Populate slang list and handle item clicks
+slangData.forEach(slang => {
+  const item = document.createElement("div");
+  item.classList.add("slang-item");
+  item.innerHTML = `<h3>${slang.slang}</h3>`;
+  item.addEventListener("click", () => searchInput.value = slang.slang);
+  slangList.appendChild(item);
+});
+
+// Search functionality with improvements
+function handleSearch() {
+  const searchTerm = searchInput.value.toLowerCase().trim();
+
+  // Filter results based on search term, incorporating fuzzy matching or other logic
+  const results = slangData.filter(slang => slang.slang.toLowerCase().includes(searchTerm));
+
+  // Display results with animations and clear structure
+  displayResults(results);
+}
+
+function displayResults(results) {
+  searchResults.innerHTML = "";
+
+  if (results.length === 0) {
+    searchResults.innerHTML = "<p>No slang matches your search.</p>";
+    return;
+  }
+
+  results.forEach(slang => {
+    const item = document.createElement("div");
+    item.classList.add("search-result");
+
+    // Use template literals for cleaner HTML creation
+    item.innerHTML = `
+      <h3>${slang.slang}</h3>
+      <p>${slang.meaning}</p>
+      ${slang.link ? `<a href="${slang.link}" target="_blank">Learn More</a>` : ""}
+      ${slang.image ? `<img src="${slang.image}" alt="${slang.slang}">` : ""}
+    `;
+
+    // Add animations using a library like Anime.js or GSAP (replace placeholders)
+    item.style.animation = "fadeIn 0.5s ease-in-out";
+
+    searchResults.appendChild(item);
+  });
+}
+
+// Event listeners
+searchInput.addEventListener("input", handleSearch);
+searchButton.addEventListener("click", handleSearch);
+
+// Further enhance user experience and design as needed
