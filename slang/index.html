@@ -117,17 +117,30 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	  navLinks.style.right = "-200px";
 	}
   </script>
-		<section class="slang-search">
-			<h1 class="header">Unlock Your Lingo Lexicon!</h1>
-			<div class="input-container">
-			  <input type="text" id="searchInput" placeholder="Search..." autocomplete="off">
-			  <button id="searchButton">Search</button>
-			</div>
-			<div id="slangList" class="slang-list"></div>
-			<div id="searchResults" class="search-results hidden"></div>
-		  </section>
-		  
-		  <script src="find-slang.js"></script>
+	  <section class="slang-search">
+        <div id="slang-search">
+            <h2>Express Yourself with Cool T-Shirts</h2>
+            <input type="text" id="searchInput" placeholder="Search slang...">
+            <select id="slangSelect">
+                <option value="" disabled selected>Select a slang</option>
+                <!-- Slang options will be dynamically added here -->
+            </select>
+            <div id="searchResults" class="hidden">
+                <div class="slang-info">
+                    <div id="meaning"></div>
+                    <a id="learnMoreLink" href="#" target="_blank">Learn More</a>
+                    <br>
+                    <div id="imageContainer"></div>
+                    <br>
+                    <button id="addToCartButton" class="add-to-cart hidden">Add to Cart</button>
+                    <br>
+                 
+                </div>
+            </div>
+        </div>
+    </section>
+		<script src="find-slang.js"></script>
+		
 		  
 		
 

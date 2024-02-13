@@ -1,98 +1,117 @@
-// Store actual slang data with image paths
+// Placeholder slang data
 const slangData = [
-   
-    // ... more slang objects
-  ];
-  
-  // Get references to HTML elements
-  const searchInput = document.getElementById("searchInput");
-  const searchButton = document.getElementById("searchButton");
-  const searchResults = document.getElementById("searchResults");
-  const loadingIndicator = document.createElement("div");
-  const errorMessage = document.createElement("p");
-  
-  // Set up loading indicator and error message elements
-  loadingIndicator.classList.add("loading");
-  loadingIndicator.innerHTML = `<img src="path/to/loading-indicator.gif" alt="Loading">`;
-  errorMessage.classList.add("error");
-  errorMessage.textContent = "No slang matches your search.";
-  
-  // Event listener for input changes
-  searchInput.addEventListener("input", function () {
-    searchResults.innerHTML = ""; // Clear previous results
-    searchResults.classList.remove("visible"); // Hide results if the input changes
-  
-    // Ignore empty input
-    if (searchInput.value.trim() === "") {
-      return;
-    }
-  
-    // Show loading indicator while simulating data fetch (replace with actual API call)
-    loadingIndicator.style.display = "block";
-  
-    const searchTerm = searchInput.value.toLowerCase();
-    const filteredResults = slangData.filter(
-      (item) => item.slang.toLowerCase().includes(searchTerm)
-    );
-  
-    setTimeout(() => { // Simulate data fetching delay
-      displayResults(filteredResults);
-    }, 1000); // Adjust timeout as needed
+  {
+    slang: "Lit",
+    meaning: "loreem ipsium",
+    link: "learn.html",
+    imageUrl: "../images/shirt.jpg",
+  },
+  {
+    slang: "Flex",
+    meaning: "To show off, demonstrate power or wealth.",
+    link: "learn-more.html",
+    imageUrl: "path/to/flex-t-shirt.jpg",
+  },
+  // Add more slang objects as needed
+];
+
+// Select elements
+const slangSelect = document.getElementById("slangSelect");
+const meaningDiv = document.getElementById("meaning");
+const imageContainer = document.getElementById("imageContainer");
+const addToCartButton = document.getElementById("addToCartButton");
+const searchInput = document.getElementById("searchInput");
+const learnMoreLink = document.getElementById("learnMoreLink");
+
+// Function to populate slang select dropdown
+function populateSlangDropdown() {
+  slangData.forEach(slang => {
+    const option = document.createElement("option");
+    option.value = slang.slang;
+    option.textContent = slang.slang;
+    slangSelect.appendChild(option);
   });
-  
-  // Event listener for search button click (triggers input event)
-  searchButton.addEventListener("click", function () {
-    searchInput.dispatchEvent(new Event("input"));
-  });
-  
-  // Function to display search results
-  function displayResults(results) {
-    // Hide loading indicator
-    loadingIndicator.style.display = "none";
-  
-    // Handle no results found
-    if (results.length === 0) {
-      searchResults.appendChild(errorMessage);
-      return;
+}
+
+// Function to display slang information
+function displaySlangInfo(selectedSlang) {
+  const selectedSlangData = slangData.find(slang => slang.slang === selectedSlang);
+  if (selectedSlangData) {
+    meaningDiv.textContent = selectedSlangData.meaning;
+
+    if (selectedSlangData.imageUrl) {
+      const image = document.createElement("img");
+      image.src = selectedSlangData.imageUrl;
+      image.alt = `${selectedSlangData.slang} T-shirt`;
+      imageContainer.innerHTML = "";
+      imageContainer.appendChild(image);
+    } else {
+      imageContainer.innerHTML = "";
     }
-  
-    // Clear previous results and iterate over filtered slang data
-    searchResults.innerHTML = "";
-    results.forEach((result) => {
-      const resultItem = document.createElement("div");
-      resultItem.classList.add("result-item");
-  
-      // Create HTML content for each result item
-      resultItem.innerHTML = `
-        <h3>${result.slang}</h3>
-        <p>${result.meaning}</p>
-        <a href="${result.link}" target="_blank">Learn More</a>
-        <img src="${result.image}" alt="${result.slang} T-shirt">
-        <button data-slang="${result.slang}">Add to Cart</button>
-      `;
-  
-      // Add result item to search results container
-      searchResults.appendChild(resultItem);
-    });
-  
-    // Make results container visible
-    searchResults.classList.add("visible");
-  
-    // Add click handlers for "Add to Cart" buttons
-    searchResults.querySelectorAll("button").forEach((button) => {
-      button.addEventListener("click", function () {
-        addToCart(this.dataset.slang); // Use data-slang attribute to get slang name
+
+    if (selectedSlangData.link) {
+      learnMoreLink.href = selectedSlangData.link;
+      learnMoreLink.style.display = "inline-block";
+    } else {
+      learnMoreLink.style.display = "none";
+    }
+
+    if (selectedSlangData.link) {
+      addToCartButton.classList.remove("hidden");
+      addToCartButton.addEventListener("click", () => {
+        window.open(selectedSlangData.link, "_blank");
       });
-    });
+    } else {
+      addToCartButton.classList.add("hidden");
+    }
+
+    document.getElementById("searchResults").style.display = "block";
+  } else {
+    hideSlangInfo();
   }
-  
-  // Simulate adding to cart functionality (replace with actual cart logic)
-  function addToCart(slang) {
-    alert(`"${slang}" added to cart!`);
-  }
-  
-  // Run code when the page loads (DOMContentLoaded event)
-  document.addEventListener("DOMContentLoaded", function () {
-    // ... rest of the code from your previous example ...
+}
+
+// Function to hide slang information
+function hideSlangInfo() {
+  meaningDiv.textContent = "";
+  imageContainer.innerHTML = "";
+  addToCartButton.classList.add("hidden");
+  learnMoreLink.style.display = "none";
+  document.getElementById("searchResults").style.display = "none";
+}
+
+// Function to filter slang data based on search term
+function filterSlangData(searchTerm) {
+  return slangData.filter(slang => slang.slang.toLowerCase().includes(searchTerm.toLowerCase()));
+}
+
+// Function to display search results
+function displaySearchResults(filteredData) {
+  slangSelect.innerHTML = '<option value="" disabled selected>Select a slang</option>';
+  filteredData.forEach(slang => {
+    const option = document.createElement("option");
+    option.value = slang.slang;
+    option.textContent = slang.slang;
+    slangSelect.appendChild(option);
   });
-  
+}
+
+// Event listener for slang select dropdown
+slangSelect.addEventListener("change", event => {
+  const selectedSlang = event.target.value;
+  if (selectedSlang) {
+    displaySlangInfo(selectedSlang);
+  } else {
+    hideSlangInfo();
+  }
+});
+
+// Event listener for search input
+searchInput.addEventListener("input", event => {
+  const searchTerm = event.target.value.trim();
+  const filteredData = filterSlangData(searchTerm);
+  displaySearchResults(filteredData);
+});
+
+// Populate slang dropdown on page load
+populateSlangDropdown();
