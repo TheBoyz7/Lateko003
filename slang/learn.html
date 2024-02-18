@@ -10,6 +10,8 @@
 <link rel="alternate" type="application/rss+xml" title="D-Shirt &raquo; Comments Feed" href="../comments/feed/index.html.rss">
 <link rel="stylesheet" href="learn-more-styles.css">
 <link rel="stylesheet" href="../style.css" />
+<link rel="stylesheet" href="../css/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="../css/font-awesome-4.7.0/css/font-awesome.css">
 <link
   rel="stylesheet"
   href="../css/font-awesome-4.7.0/css/font-awesome.min.css"
@@ -98,7 +100,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		<li><a href="../store/index.html">STORE</a></li>
 		<li><a href="../contact/index.htm">CONTACT</a></li>
 	  </ul>
-	  <div><button style="background-color: #00bfff;">PURCHASE NOW</button></div>
+	  <div><button>PURCHASE NOW</button></div>
 	</div>
 
 	<i class="fa fa-bars" onclick="showMenu()"></i>
@@ -117,31 +119,32 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	}
   </script>
 
-<section class="learn-more-section">
-    <div class="learn-more-container">
-        <div class="product-details">
-            <h1>Explore Slang Culture</h1>
-            <div class="slang-details" id="slangDetails"></div>
-            <div class="actions">
-                <button class="add-to-cart-button" onclick="addToCart()">Add to Cart</button>
-                <a href="#" class="learn-more-link">Learn More</a>
+<section>
+    <header>
+        <h1>Slang Details</h1>
+    </header>
+    <main>
+        <div class="slang-container">
+            <div class="slang-info">
+                <h2>Lit</h2>
+                <p>Meaning: Awesome</p>
+                <p>Details: Lit is used to describe something that is exceptionally cool or exciting.</p>
+            </div>
+            <div class="related-links">
+                <h2>Related Links</h2>
+                <ul>
+                    <li><a href="#" target="_blank"><i class="fas fa-spotify"></i> Listen on Spotify</a></li>
+                    <li><a href="#" target="_blank"><i class="fas fa-google"></i> Watch on YouTube</a></li>
+                </ul>
             </div>
         </div>
-        <div class="related-images">
-            <h2>Related Images</h2>
-            <div class="image-carousel" id="imageCarousel">
-                <div class="carousel-slide">
-                    <img src="related-image-1.jpg" alt="Related Image 1">
-                </div>
-                <div class="carousel-slide">
-                    <img src="related-image-2.jpg" alt="Related Image 2">
-                </div>
-                <!-- Add more slides as needed -->
-            </div>
-        </div>
-        <script src="learn-more-script.js"></script>
-    </div>
+    </main>
+    <script src="learn-more-script.js"></script>
+
 </section>
+
+
+
 
 
 		
