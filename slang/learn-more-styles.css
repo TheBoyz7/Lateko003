@@ -1,55 +1,90 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 20px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.learn-more-section {
     background-color: #f8f8f8;
-    text-align: center;
+    padding: 50px 0;
 }
 
 .learn-more-container {
-    max-width: 600px;
+    max-width: 1200px;
     margin: auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-h1 {
-    color: #4285f4;
+.product-details {
+    flex: 1;
+    padding-right: 30px;
 }
 
-#slangDetails {
+.product-details h1 {
+    color: #333;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.slang-details p {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.actions {
     margin-top: 20px;
 }
 
-.credits-section,
-.texts-section,
-.image-carousel {
-    margin-top: 20px;
-}
-
-.credits-section p,
-.texts-section h2,
-.texts-section p {
-    margin: 8px 0;
-}
-
-.credits-section a {
-    color: #4285f4;
+.add-to-cart-button,
+.learn-more-link {
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: #fff;
     text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-.credits-section a:hover {
-    text-decoration: underline;
+.add-to-cart-button:hover,
+.learn-more-link:hover {
+    background-color: #0056b3;
+}
+
+.related-images {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.related-images h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
 }
 
 .image-carousel {
-    overflow: hidden;
-    margin-top: 20px;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
 }
 
 .carousel-slide {
-    display: none;
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    margin-right: 20px;
+}
+
+.carousel-slide:last-child {
+    margin-right: 0;
 }
 
 .carousel-slide img {

@@ -59,7 +59,8 @@ function displaySlangInfo(selectedSlang) {
     if (selectedSlangData.link) {
       addToCartButton.classList.remove("hidden");
       addToCartButton.addEventListener("click", () => {
-        window.open(selectedSlangData.link, "_blank");
+        // Show an alert when "Add to Cart" button is clicked
+        alert("Item added to cart!");
       });
     } else {
       addToCartButton.classList.add("hidden");
@@ -93,6 +94,7 @@ function displaySearchResults(filteredData) {
     option.value = slang.slang;
     option.textContent = slang.slang;
     slangSelect.appendChild(option);
+    
   });
 }
 

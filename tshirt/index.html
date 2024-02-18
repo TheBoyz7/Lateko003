@@ -120,71 +120,59 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
   
 
-		<section>
-            <div class="product-container">
-                <div class="product-customization">
-                    <h2>Customize Your T-shirt</h2>
-                    <div class="design-picker">
-                        <label for="design">Choose Slang Design:</label>
-                        <select id="design" name="design">
-                            <option value="awesome">Design image 1</option>
-                            <option value="lit">Design Image 2</option>
-                            <!-- Add more design options as needed -->
-                        </select>
-                    </div>
-                    <div class="color-picker">
-                        <label for="color">Choose Color:</label>
-                        <input type="color" id="color" name="color" value="#ff9900">
-                    </div>
-                </div>
-        
-                <div class="product-image">
-                    <img src="../images/shirt.jpg" alt="Lateko T-shirt">
-                </div>
-                <div class="product-details">
-                    <h1>Lateko T-shirt</h1>
-                    <p class="price">$25.99</p>
-                    <p class="description">Show your style with this Lateko T-shirt. Made with high-quality cotton for maximum comfort.</p>
-                    <button onclick="addToCart()">Add to Cart</button>
-                    <a href="../slang/learn.html" class="learn-more-button">Learn about Slang</a>
-                </div>
-        
-                <!-- Product Description Section -->
-                <div class="product-section description-section">
-                    <h2>Product Description</h2>
-                    <p>This Lateko T-shirt is a perfect addition to your wardrobe. Made with soft and durable cotton, it provides both comfort and style. The unique design showcases Lateko's vibrant and energetic spirit.</p>
-                </div>
-        
-                <!-- Customer Reviews Section -->
-                <div class="product-section reviews-section">
-                    <h2>Customer Reviews</h2>
-                    <div class="customer-review">
-                        <p class="customer-name">John Doe</p>
-                        <p class="review-date">January 15, 2024</p>
-                        <p class="review-text">I love this T-shirt! The quality is excellent, and the design is super cool. Definitely worth the price.</p>
-                    </div>
-                    <!-- Add more reviews as needed -->
-                </div>
-        
-                <!-- Related Products Section -->
-                <div class="product-section related-products-section">
-                    <h2>Related Products</h2>
-                    <!-- <div class="related-product">
-                        <img src="related-product-1.jpg" alt="Related Product 1">
-                        <p class="related-product-name">Lateko Cool Hoodie</p>
-                        <p class="related-product-price">$39.99</p>
-                    </div>
-                    <div class="related-product">
-                        <img src="related-product-2.jpg" alt="Related Product 2">
-                        <p class="related-product-name">Lateko Baseball Cap</p>
-                        <p class="related-product-price">$19.99</p>
-                    </div> -->
-                    <!-- Add more related products as needed -->
-                </div>
+<section class="product-container">
+    <div class="product-details">
+        <div class="product-image">
+            <img src="../images/shirt.jpg" alt="Lateko T-shirt">
+        </div>
+        <div class="product-info">
+            <h2>Lateko T-shirt</h2>
+            <p class="price">$25.99</p>
+            <p class="description">Show your style with this Lateko T-shirt. Made with high-quality cotton for maximum comfort.</p>
+            <div class="button-container">
+                <button onclick="addToCart()">Add to Cart</button>
+                <br>
+                <a href="../slang/learn.html" class="learn-more-button">Learn about Slang</a>
             </div>
-        
-            <script src="product-page-script.js"></script>
-		</section>
+        </div>
+    </div>
+
+    <!-- Product Description Section -->
+    <div class="product-section description-section">
+        <h3>Product Description</h3>
+        <p>This Lateko T-shirt is a perfect addition to your wardrobe. Made with soft and durable cotton, it provides both comfort and style. The unique design showcases Lateko's vibrant and energetic spirit.</p>
+    </div>
+
+    <!-- Customer Reviews Section -->
+    <div class="product-section reviews-section">
+        <h3>Customer Reviews</h3>
+        <div class="customer-review">
+            <p class="customer-name">John Doe</p>
+            <p class="review-date">January 15, 2024</p>
+            <p class="review-text">I love this T-shirt! The quality is excellent, and the design is super cool. Definitely worth the price.</p>
+        </div>
+        <!-- Add more reviews as needed -->
+    </div>
+
+    <!-- Related Products Section -->
+    <div class="product-section related-products-section">
+        <h3>Related Products</h3>
+        <!-- <div class="related-product">
+            <img src="related-product-1.jpg" alt="Related Product 1">
+            <p class="related-product-name">Lateko Cool Hoodie</p>
+            <p class="related-product-price">$39.99</p>
+        </div>
+        <div class="related-product">
+            <img src="related-product-2.jpg" alt="Related Product 2">
+            <p class="related-product-name">Lateko Baseball Cap</p>
+            <p class="related-product-price">$19.99</p>
+        </div> -->
+        <!-- Add more related products as needed -->
+    </div>
+</section>
+
+
+
 
 		
 

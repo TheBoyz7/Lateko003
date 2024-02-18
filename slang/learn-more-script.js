@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     const slangDetailsContainer = document.getElementById("slangDetails");
-    const imageCarousel = document.querySelector(".image-carousel");
 
     // Simulated data for demonstration purposes
     const slangData = [
@@ -9,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Add more data as needed
     ];
 
-    // Get slang term from URL parameter
+    // Get slang term from URL parameter (replace 'term' with your parameter name)
     const urlParams = new URLSearchParams(window.location.search);
     const slangTerm = urlParams.get('term');
 
@@ -19,7 +18,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Display the details on the page
     if (slangDetails) {
         displaySlangDetails(slangDetails);
-        initImageCarousel();
     } else {
         slangDetailsContainer.innerHTML = "<p>No details found for the selected slang term.</p>";
     }
@@ -30,7 +28,6 @@ function displaySlangDetails(details) {
     const slangDetailsContainer = document.getElementById("slangDetails");
 
     const detailsHTML = `
-        <h2>${details.slang}</h2>
         <p>${details.meaning}</p>
         <p>${details.details}</p>
     `;
@@ -38,29 +35,7 @@ function displaySlangDetails(details) {
     slangDetailsContainer.innerHTML = detailsHTML;
 }
 
-// Function to initialize the image carousel
-function initImageCarousel() {
-    const slides = document.querySelectorAll(".carousel-slide");
-    let currentSlide = 0;
-
-    function showSlide(index) {
-        slides.forEach((slide, i) => {
-            if (i === index) {
-                slide.style.display = "block";
-            } else {
-                slide.style.display = "none";
-            }
-        });
-    }
-
-    function nextSlide() {
-        currentSlide = (currentSlide + 1) % slides.length;
-        showSlide(currentSlide);
-    }
-
-    // Show the first slide initially
-    showSlide(currentSlide);
-
-    // Auto slide every 3 seconds
-    setInterval(nextSlide, 3000);
+// Function to add item to cart (replace with your functionality)
+function addToCart() {
+    alert("Item added to cart!");
 }
