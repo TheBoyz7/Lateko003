@@ -1,19 +1,91 @@
 // Placeholder slang data
 const slangData = [
   {
-    slang: "Lit",
-    meaning: "loreem ipsium",
-    link: "learn.html",
+    slang: "Baba Ijebu",
+    meaning: "An illegal lottery or gambling game.",
+    link: "learn-baba-ijebu.html",
     imageUrl: "../images/shirt.jpg",
   },
   {
-    slang: "Flex",
-    meaning: "To show off, demonstrate power or wealth.",
-    link: "learn-more.html",
-    imageUrl: "path/to/flex-t-shirt.jpg",
+    slang: "Gbedu",
+    meaning: "Refers to a good song or music with a great beat.",
+    link: "learn-gbedu.html",
+    imageUrl: "path/to/gbedu-album.jpg",
   },
-  // Add more slang objects as needed
+  {
+    slang: "K-leg",
+    meaning: "To make a mistake or fail at something.",
+    link: "learn-k-leg.html",
+    imageUrl: "path/to/k-leg-meme.jpg",
+  },
+  {
+    slang: "Gbe body e",
+    meaning: "To dance or move vigorously, especially in a party setting.",
+    link: "learn-gbe-body-e.html",
+    imageUrl: "path/to/gbe-body-e-dance.jpg",
+  },
+  {
+    slang: "Japa",
+    meaning: "To flee or escape from a situation.",
+    link: "learn-japa.html",
+    imageUrl: "path/to/japa-meme.jpg",
+  },
+  {
+    slang: "Owanbe",
+    meaning: "A lavish or elaborate party or celebration, especially a wedding.",
+    link: "learn-owanbe.html",
+    imageUrl: "path/to/owanbe-party.jpg",
+  },
+  {
+    slang: "Soro soke",
+    meaning: "To speak up or voice out against injustice or oppression.",
+    link: "learn-soro-soke.html",
+    imageUrl: "path/to/soro-soke-protest.jpg",
+  },
+  {
+    slang: "Wahala dey",
+    meaning: "There's trouble or a problem brewing.",
+    link: "learn-wahala-dey.html",
+    imageUrl: "path/to/wahala-dey-meme.jpg",
+  },
+  {
+    slang: "Yawa",
+    meaning: "To be in trouble or facing a difficult situation.",
+    link: "learn-yawa.html",
+    imageUrl: "path/to/yawa-meme.jpg",
+  },
+  {
+    slang: "Aproko",
+    meaning: "Gossip or someone who gossips a lot.",
+    link: "learn-aproko.html",
+    imageUrl: "path/to/aproko.jpg",
+  },
+  {
+    slang: "Chop knuckle",
+    meaning: "To exchange greetings by knocking fists together.",
+    link: "learn-chop-knuckle.html",
+    imageUrl: "path/to/chop-knuckle.jpg",
+  },
+  {
+    slang: "Gbege",
+    meaning: "A fight or a quarrel.",
+    link: "learn-gbege.html",
+    imageUrl: "path/to/gbege.jpg",
+  },
+  {
+    slang: "Jand",
+    meaning: "The United Kingdom, usually used to refer to traveling abroad.",
+    link: "learn-jand.html",
+    imageUrl: "path/to/jand.jpg",
+  },
+  {
+    slang: "Padi",
+    meaning: "Friend or buddy.",
+    link: "learn-padi.html",
+    imageUrl: "path/to/padi.jpg",
+  },
 ];
+
 
 // Select elements
 const slangSelect = document.getElementById("slangSelect");

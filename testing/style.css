@@ -1,0 +1,74 @@
+/* Portal effect adjustments */
+.slang-portal {
+    perspective: 1px;
+    transform: translateZ(0); /* Start at neutral depth */
+    overflow: hidden; /* Clip portal edges */
+  }
+  
+  .slang-portal h2 {
+    transform: translateZ(50px); /* Stay in front of portal initially */
+  }
+  
+  .slang-portal li {
+    transform: translateZ(40px); /* Stay in front of portal initially */
+  }
+  
+  .slang-portal:hover {
+    transform: scale(1.1); /* Subtle zoom on hover */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+  }
+  
+  .slang-portal ul {
+    transform: translateZ(-200px); /* Start behind the portal */
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slang-portal:hover ul {
+    transform: translateZ(0); /* Move forward on hover */
+  }
+  
+  /* T-shirt rotation fix and animation improvement */
+  .t-shirt-rotation img {
+    animation: rotate 5s infinite linear;
+    transform-origin: 50% 50%; /* Rotate around center */
+  }
+  
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  /* Enhance overall style */
+  body {
+    background-color: #f2f2f2; /* Neutral background */
+  }
+  
+  .container {
+    max-width: 1000px; /* Adjust container width */
+    padding: 30px;
+  }
+  
+  .hero {
+    height: 400px; /* Adjust hero height */
+  }
+  
+  .slang-portal h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .slang-portal li {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .interactive {
+    text-align: center; /* Center interactive section */
+  }
+  
+  /* Add your own styles for further customization */
+-  
