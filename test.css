@@ -187,7 +187,7 @@ nav .nav-links ul li a:hover{
   width: 40px;
 }
   
-nav . .nav-links .fa{
+nav .nav-links .fa{
   display: none;
 }
 
@@ -214,7 +214,7 @@ nav . .nav-links .fa{
       transition: 1s;
   }
 
-  nav .fa{
+  nav .nav-links .fa{
       display: block;
       color: #063672;
       margin: 5px;
