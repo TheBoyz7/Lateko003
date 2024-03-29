@@ -172,6 +172,9 @@ nav img{
     background: #00D936;
 }
 
+.fas{
+    display: none;
+}
 
 hr{
     color: #ff00
@@ -303,6 +306,10 @@ nav .fa{
         margin: 5px;
         font-size: 22px;
         cursor: pointer;
+    }
+
+    .fas{
+        display: inline;
     }
 
     nav .fa-times {

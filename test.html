@@ -1,56 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="test.css">
-  <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-  <nav class="lateko-navbar">
-    <a href="index.html">
-      <img src="wp-content/uploads/sites/52/2022/06/Logo-D-Shirt-1-300x86.png" alt="Logo" style="width: 150px;">
-    </a>
-    <div class="search-bar">
-      <input type="text" placeholder="Search Lateko">
-      <button type="submit"><i class="fa fa-search"></i></button>
-    </div>
-    <div class="nav-links">
-      <i class="fa fa-times" onclick="hideMenu()"></i>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="test.css" />
+    <link
+      rel="stylesheet"
+      href="css/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link href="css/webfonts/uicons-regular-rounded.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="lateko-navbar">
+      <a href="index.html">
+        <img
+          src="wp-content/uploads/sites/52/2022/06/Logo-D-Shirt-1-300x86.png"
+          alt="Logo"
+          style="width: 150px"
+        />
+      </a>
+      <div class="search-bar">
+        <input
+          type="text"
+          name="q"
+          id="fi-q"
+          placeholder="Search products, brands and categories"
+          aria-label="Search"
+          value=""
+          autocomplete="off"
+          required
+        />
+        <button type="submit"><i class="fa fa-search"></i></button>
+      </div>
+      <div class="nav-links">
+        <i class="fa fa-times" onclick="hideMenu()"></i>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
       <i class="fa fa-bars" onclick="showMenu()"></i>
-    </div>
-    
-  </nav>
+    </nav>
 
-  <nav id="b-nav">
-    <div class="nav-links">
-      <i class="fa fa-times" onclick="hideMenu()"></i>
-      <ul>
-        <li><a href="">Category 1</a></li>
-        <li><a href="">Category 2</a></li>
-        <li><a href="">Category 3</a></li>
-      </ul>
-       <i class="fa fa-bars" onclick="showMenu()"></i>
-    </div>
-   
-  </nav>
+    <nav id="b-nav">
+      <div class="nav-links">
+        <i class="fa fa-times" onclick="hideMenu()"></i>
+        <ul>
+          <li><a href="">Category 1</a></li>
+          <li><a href="">Category 2</a></li>
+          <li><a href="">Category 3</a></li>
+        </ul>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+      </div>
+    </nav>
 
-  <script>
-      var navLinks = document.getElementById("nav")
-    
-    function showMenu(){
-    navLinks.style.right = "0"
-    }
-    
-    function hideMenu(){
-    navLinks.style.right = "-200px"
-    }
-  </script>
-</body>
+    <script>
+      var navLinks = document.getElementById("nav");
+
+      function showMenu() {
+        navLinks.style.right = "0";
+      }
+
+      function hideMenu() {
+        navLinks.style.right = "-200px";
+      }
+    </script>
+  </body>
 </html>
