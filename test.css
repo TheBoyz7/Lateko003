@@ -69,9 +69,28 @@ body {
 }
 
 #b-nav {
-  background-color: #00d9369d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 3%;
+  background-color: #00D936;
   text-align: left;
   height: 15px;
+}
+
+
+#b-nav .nav-link ul li{
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  padding: 8px 12px;
+}
+
+#b-nav .nav-link ul li a{
+  text-decoration: none;
+  color: #313133;
+  font-size: 1rem;
+  transition: 0.5s;
 }
 
 nav{
@@ -130,19 +149,19 @@ nav .fa-search{
 
   .nav-links{
       position: fixed;
-      background-color: #db0007;
+      background-color: #fff;
       top: 0;
       height: 100vh;
       width: 200px;
       right: -200px;
-      text-align: center;
+      text-align: left;
       z-index: 99;
       transition: 1s;
   }
 
   nav .nav-links .fa{
       display: block;
-      color: #063672;
+      color: #00D936;
       margin: 5px;
       padding: 1px;
       cursor: pointer;
@@ -160,6 +179,26 @@ nav .fa{
 }
   .search-bar{
     display: none;
+  }
+
+  #b-nav .nav-link ul li a{
+    font-size: 15px;
+  }
+
+  #b-nav .nav-link ul{
+    align-items: center;
+  }
+
+}
+
+@media (max-width: 300px) {
+  
+  #b-nav .nav-link ul li a{
+    font-size: 12.5px;
+  }
+
+  #b-nav .nav-link ul{
+    align-items: center;
   }
 
 }
