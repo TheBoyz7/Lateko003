@@ -88,7 +88,7 @@ body {
 
 #b-nav .nav-link ul li a{
   text-decoration: none;
-  color: #313133;
+  color: #fff;
   font-size: 1rem;
   transition: 0.5s;
 }
@@ -183,6 +183,7 @@ nav .fa{
 
   #b-nav .nav-link ul li a{
     font-size: 15px;
+   
   }
 
   #b-nav .nav-link ul{
