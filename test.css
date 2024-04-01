@@ -406,12 +406,35 @@ nav .fa{
 
   }
   .square img {
-    width: 100%;
+    width: 10 0%;
     height: 100px;
   }
 
   .square {
     width: 100%;
     /* max-width: 300px; */
+  }
+}
+.section1{
+  width: 96%;
+  margin-left: 2%;
+}
+.s1-nav{
+  /* padding: 10px 10px; */
+  background-color: #00D936;
+  margin-top: 40px;
+
+  color: #fff;
+}
+.items{
+  display: flex;
+}
+.item img{
+  width: 100%;
+}
+
+@media (max-width: 768px){
+  .section1{
+    margin-top: 130px;
   }
 }
