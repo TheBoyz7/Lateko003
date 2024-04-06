@@ -448,5 +448,7 @@ nav .fa{
   .section{
     margin-top: 130px;
   }
-  
+  .items{
+    display: block;
+  }
 }
