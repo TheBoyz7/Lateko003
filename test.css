@@ -319,3 +319,14 @@ img{
 .Beginning .Beginning-products .productItem{
   height: min-content;
 }
+
+
+@media(max-width: 720px){
+  .productItem{
+    width: 4rem;
+  }
+
+  .Beginning{
+    flex-direction: column;
+  }
+}
