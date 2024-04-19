@@ -354,6 +354,10 @@ section{
     width: 4rem;
   }
 
+  .Beginning-products{
+    justify-content: space-between;
+  }
+
   .Beginning{
     flex-direction: column;
   }
