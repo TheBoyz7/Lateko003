@@ -345,6 +345,10 @@ section{
   padding: 10px;
 }
 
+#b-nav .nav-link ul li a:hover{
+  color: #0f5320;
+}
+
 @media(max-width: 720px){
   .productItem{
     width: 4rem;
@@ -353,4 +357,10 @@ section{
   .Beginning{
     flex-direction: column;
   }
+
+  .sec-top a{
+  margin-left: 75%;
+  margin-top: 10px;
+  color: #fff;
+}
 }
